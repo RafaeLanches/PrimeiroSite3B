@@ -12,6 +12,8 @@ body {
 
 header {
     background-color: #ffffff;
+    width: 40px;
+    height: 40px;
 }
 
 
@@ -46,6 +48,7 @@ section {
     width: 45rem;
     height: auto;
 }
+
 
 
 .esquerda-conteudo {
